@@ -4,7 +4,8 @@ public class gitdemo {
 	
 	public static void main(String args[]) {
 		
-		System.out.println("NiranjanSH");
+		System.out.println("Niranjan");
+		System.out.println("Hiremath");
 	}
 
 }
